@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rusescunfabian-svg.github.io/idraulicosartibozza/sitemap.xml
